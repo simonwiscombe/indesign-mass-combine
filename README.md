@@ -2,7 +2,7 @@
 A simple script that combines all indesign files in a single folder into one indesign document.
 
 **just fyi**
-* This was last tested with .cs6 but it seems like, routinely, Adobe updates break the script.
+* This was last tested with CS5 but it seems like, routinely, Adobe updates break the script. I know there are currently issues with CS6, so if you have CS6 and have solved the problem, I'd highly appreciate it if you created a pull request with the required changes.
 * It will arrange all the files alphabetically by filename. Useful for pages.
 
 ## In order to use:
